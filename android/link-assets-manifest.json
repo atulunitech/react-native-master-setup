@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GeoramaExtraCondensed-Bold.ttf",
+      "sha1": "5ac74eb7a308c8bab500ce963e6ce9c127aef952"
+    },
+    {
+      "path": "assets/fonts/GeoramaSemiExpanded-Bold.ttf",
+      "sha1": "966fe5218f402c37abe12ba421b8f190a7a3cb3f"
+    },
+    {
+      "path": "assets/fonts/GeoramaSemiExpanded-Light.ttf",
+      "sha1": "136e62bb6bfadee2d6cf4717ca1104b11979af55"
+    },
+    {
+      "path": "assets/fonts/GeoramaSemiExpanded-Medium.ttf",
+      "sha1": "8fe1edee611e299f92d875b27258dc00edd9c8c5"
+    },
+    {
+      "path": "assets/fonts/GeoramaSemiExpanded-Regular.ttf",
+      "sha1": "64b1ba55d5b5df4ff4cd60fab8359f7b929cb977"
+    },
+    {
+      "path": "assets/fonts/GeoramaSemiExpanded-SemiBold.ttf",
+      "sha1": "1c2b68247d36247033a2e03317dda3dbeadc61e8"
+    },
+    {
+      "path": "assets/fonts/GeoramaSemiExpanded-Thin.ttf",
+      "sha1": "a2d191a4a0d2dc2f16c8f5571009c99892fd8bc6"
+    },
+    {
+      "path": "assets/fonts/GeoramaVariableFontwdthwght.ttf",
+      "sha1": "8ac6098877fb7bde016b7ed448021f8fb7f009d5"
+    }
+  ]
+}

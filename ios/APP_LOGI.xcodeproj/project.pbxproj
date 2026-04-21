@@ -11,6 +11,15 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A7474E00C2359164DAB02D23 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		346F3EE73C3F4835A6F0F01C /* GeoramaSemiExpanded-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */; };
+		252EBA150C084AC894333AE7 /* GeoramaSemiExpanded-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */; };
+		CF481E5AC4E44D57A432ADDC /* GeoramaExtraCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9773AD36457E478985A88862 /* GeoramaExtraCondensed-Bold.ttf */; };
+		D2D08A7691F941A9A8423C13 /* GeoramaSemiExpanded-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3CE0FD5BB2C344988C49F8D5 /* GeoramaSemiExpanded-Regular.ttf */; };
+		76DB3ADB55D040E29F11D62B /* GeoramaSemiExpanded-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */; };
+		018B6299764F4AFF92A9AD9E /* GeoramaSemiExpanded-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */; };
+		80CD81800F1647FDA5E94D12 /* GeoramaSemiExpanded-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */; };
+		EFE666133C484EAF853DF959 /* GeoramaVariableFontwdthwght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B648E0FB306C4219A4F477A3 /* GeoramaVariableFontwdthwght.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,14 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = APP_LOGI/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = APP_LOGI/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Bold.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Thin.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9773AD36457E478985A88862 /* GeoramaExtraCondensed-Bold.ttf */ = {isa = PBXFileReference; name = "GeoramaExtraCondensed-Bold.ttf"; path = "../assets/fonts/GeoramaExtraCondensed-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3CE0FD5BB2C344988C49F8D5 /* GeoramaSemiExpanded-Regular.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Regular.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Light.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Medium.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-SemiBold.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B648E0FB306C4219A4F477A3 /* GeoramaVariableFontwdthwght.ttf */ = {isa = PBXFileReference; name = "GeoramaVariableFontwdthwght.ttf"; path = "../assets/fonts/GeoramaVariableFontwdthwght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +67,22 @@
 			name = APP_LOGI;
 			sourceTree = "<group>";
 		};
+		198AA166BD9148259BADD798 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */,
+				F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */,
+				9773AD36457E478985A88862 /* GeoramaExtraCondensed-Bold.ttf */,
+				3CE0FD5BB2C344988C49F8D5 /* GeoramaSemiExpanded-Regular.ttf */,
+				EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */,
+				CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */,
+				86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */,
+				B648E0FB306C4219A4F477A3 /* GeoramaVariableFontwdthwght.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -74,6 +107,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				198AA166BD9148259BADD798 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -159,6 +193,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				A7474E00C2359164DAB02D23 /* PrivacyInfo.xcprivacy in Resources */,
+				346F3EE73C3F4835A6F0F01C /* GeoramaSemiExpanded-Bold.ttf in Resources */,
+				252EBA150C084AC894333AE7 /* GeoramaSemiExpanded-Thin.ttf in Resources */,
+				CF481E5AC4E44D57A432ADDC /* GeoramaExtraCondensed-Bold.ttf in Resources */,
+				D2D08A7691F941A9A8423C13 /* GeoramaSemiExpanded-Regular.ttf in Resources */,
+				76DB3ADB55D040E29F11D62B /* GeoramaSemiExpanded-Light.ttf in Resources */,
+				018B6299764F4AFF92A9AD9E /* GeoramaSemiExpanded-Medium.ttf in Resources */,
+				80CD81800F1647FDA5E94D12 /* GeoramaSemiExpanded-SemiBold.ttf in Resources */,
+				EFE666133C484EAF853DF959 /* GeoramaVariableFontwdthwght.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -370,6 +413,10 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DRCT_REMOVE_LEGACY_ARCH=1",
+				);
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -377,8 +424,13 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
+					"-DRCT_REMOVE_LEGACY_ARCH=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				SWIFT_ENABLE_EXPLICIT_MODULES = NO;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -435,6 +487,10 @@
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DRCT_REMOVE_LEGACY_ARCH=1",
+				);
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -442,8 +498,12 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
+					"-DRCT_REMOVE_LEGACY_ARCH=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ENABLE_EXPLICIT_MODULES = NO;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

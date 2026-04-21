@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   },
   heading: {
     fontSize: 32,
-    fontFamily: 'GeoramaExtraCondensed-Bold',
+    fontFamily: 'GeoramaSemiExpanded-Regular',
   },
 });
 

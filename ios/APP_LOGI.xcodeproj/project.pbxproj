@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		018B6299764F4AFF92A9AD9E /* GeoramaSemiExpanded-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-APP_LOGI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-APP_LOGI.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		252EBA150C084AC894333AE7 /* GeoramaSemiExpanded-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */; };
+		346F3EE73C3F4835A6F0F01C /* GeoramaSemiExpanded-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		76DB3ADB55D040E29F11D62B /* GeoramaSemiExpanded-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */; };
+		80CD81800F1647FDA5E94D12 /* GeoramaSemiExpanded-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		A7474E00C2359164DAB02D23 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
-		346F3EE73C3F4835A6F0F01C /* GeoramaSemiExpanded-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */; };
-		252EBA150C084AC894333AE7 /* GeoramaSemiExpanded-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */; };
 		CF481E5AC4E44D57A432ADDC /* GeoramaExtraCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9773AD36457E478985A88862 /* GeoramaExtraCondensed-Bold.ttf */; };
 		D2D08A7691F941A9A8423C13 /* GeoramaSemiExpanded-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3CE0FD5BB2C344988C49F8D5 /* GeoramaSemiExpanded-Regular.ttf */; };
-		76DB3ADB55D040E29F11D62B /* GeoramaSemiExpanded-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */; };
-		018B6299764F4AFF92A9AD9E /* GeoramaSemiExpanded-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */; };
-		80CD81800F1647FDA5E94D12 /* GeoramaSemiExpanded-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */; };
 		EFE666133C484EAF853DF959 /* GeoramaVariableFontwdthwght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B648E0FB306C4219A4F477A3 /* GeoramaVariableFontwdthwght.ttf */; };
 /* End PBXBuildFile section */
 
@@ -27,20 +27,20 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = APP_LOGI/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = APP_LOGI/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = APP_LOGI/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaSemiExpanded-Bold.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Bold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-APP_LOGI.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-APP_LOGI.debug.xcconfig"; path = "Target Support Files/Pods-APP_LOGI/Pods-APP_LOGI.debug.xcconfig"; sourceTree = "<group>"; };
+		3CE0FD5BB2C344988C49F8D5 /* GeoramaSemiExpanded-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaSemiExpanded-Regular.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Regular.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-APP_LOGI.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-APP_LOGI.release.xcconfig"; path = "Target Support Files/Pods-APP_LOGI/Pods-APP_LOGI.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-APP_LOGI.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-APP_LOGI.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = APP_LOGI/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = APP_LOGI/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaSemiExpanded-SemiBold.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-SemiBold.ttf"; sourceTree = "<group>"; };
+		9773AD36457E478985A88862 /* GeoramaExtraCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaExtraCondensed-Bold.ttf"; path = "../assets/fonts/GeoramaExtraCondensed-Bold.ttf"; sourceTree = "<group>"; };
+		B648E0FB306C4219A4F477A3 /* GeoramaVariableFontwdthwght.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = GeoramaVariableFontwdthwght.ttf; path = ../assets/fonts/GeoramaVariableFontwdthwght.ttf; sourceTree = "<group>"; };
+		CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaSemiExpanded-Medium.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Medium.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		32867B2B20804A76816436D5 /* GeoramaSemiExpanded-Bold.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Bold.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Thin.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9773AD36457E478985A88862 /* GeoramaExtraCondensed-Bold.ttf */ = {isa = PBXFileReference; name = "GeoramaExtraCondensed-Bold.ttf"; path = "../assets/fonts/GeoramaExtraCondensed-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3CE0FD5BB2C344988C49F8D5 /* GeoramaSemiExpanded-Regular.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Regular.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Light.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CEAA00A149E84057A82E0C6C /* GeoramaSemiExpanded-Medium.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-Medium.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		86A1356FB968433B96011D47 /* GeoramaSemiExpanded-SemiBold.ttf */ = {isa = PBXFileReference; name = "GeoramaSemiExpanded-SemiBold.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B648E0FB306C4219A4F477A3 /* GeoramaVariableFontwdthwght.ttf */ = {isa = PBXFileReference; name = "GeoramaVariableFontwdthwght.ttf"; path = "../assets/fonts/GeoramaVariableFontwdthwght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EF63669A8BC34A01BE4ECECF /* GeoramaSemiExpanded-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaSemiExpanded-Light.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Light.ttf"; sourceTree = "<group>"; };
+		F22A73C9095B4B8CADAE45A3 /* GeoramaSemiExpanded-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GeoramaSemiExpanded-Thin.ttf"; path = "../assets/fonts/GeoramaSemiExpanded-Thin.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
